@@ -1,0 +1,15 @@
+.border{
+    background: pink;
+
+}
+.headLine{
+    font-size: 18px;
+}
+.buble{
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    margin: 7px;
+    cursor: pointer;
+}
